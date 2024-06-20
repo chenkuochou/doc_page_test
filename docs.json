@@ -1,5 +1,8 @@
 {
   "name": "docsPage",
   "theme": "#36B9B9",
-  "sidebar": [["Get Started", "/"], ["Page2", "/another-page"], []]
+  "sidebar": [
+    ["Get Started", "/"],
+    ["Page2", "/another-page"]
+  ]
 }
