@@ -1,8 +1,16 @@
 {
+  "$schema": "https://docs.page/schema.json",
+
   "name": "docsPage",
   "theme": "#36B9B9",
+
   "sidebar": [
     ["Get Started", "/"],
     ["Page2", "/another-page"]
-  ]
+  ],
+  "social": {
+    "x": "invertaseio2",
+    "github": "invertase/docss.page",
+    "discord": "invertase"
+  }
 }
